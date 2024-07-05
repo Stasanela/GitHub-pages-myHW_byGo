@@ -8,4 +8,4 @@
 
 Пишите мне по [ссылке](abracadabra)
 
-![myPhoto](abrana)
+![myPhoto](https://www.codewithc.com/wp-content/uploads/2022/06/SWIFT-Programming-.png))
