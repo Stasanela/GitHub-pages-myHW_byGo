@@ -1,4 +1,4 @@
-## Немного обо ммне
+## Немного обо мне
 
 # Меня зовут Станислав и я изучаю swift
 
@@ -8,4 +8,4 @@
 
 Пишите мне по [ссылке](abracadabra)
 
-![myPhoto](https://www.codewithc.com/wp-content/uploads/2022/06/SWIFT-Programming-.png))
+![myPhoto](https://www.codewithc.com/wp-content/uploads/2022/06/SWIFT-Programming-.png)
